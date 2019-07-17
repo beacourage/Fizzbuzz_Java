@@ -50,6 +50,12 @@ public class FizzbuzzTest {
         assertEquals("fizzbuzz", result);
     }
 
+    @Test
+    public void fizzbuzz_30() {
+        String result = fizzbuzz.play(30);
+        assertEquals("fizzbuzz", result);
+    }
+
 
 
 

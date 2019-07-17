@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f34bfa69-4786-43df-8d40-70ca02d96615" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Fizzbuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Fizzbuzz.java" afterDir="false" />
-    </list>
+    <list default="true" id="f34bfa69-4786-43df-8d40-70ca02d96615" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,20 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Fizzbuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="255">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tests/com/company/FizzbuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+            <state relative-caret-position="736">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -348,17 +346,11 @@
       <workItem from="1562930914442" duration="22955000" />
       <workItem from="1563296416157" duration="395000" />
       <workItem from="1563296894102" duration="253000" />
-      <workItem from="1563359049829" duration="2506000" />
+      <workItem from="1563359049829" duration="2760000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BankAccountTest - 2019.07.16 at 12h 47m 24s.xml">
-      <configuration name="BankAccountTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BankAccountTest - 2019.07.16 at 18h 05m 38s.xml">
-      <configuration name="BankAccountTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzbuzzTest_fizz_3 - 2019.07.17 at 12h 57m 01s.xml">
       <configuration name="FizzbuzzTest.fizz_3" configurationId="JUnit" />
     </history-entry>
@@ -383,9 +375,15 @@
     <history-entry file="FizzbuzzTest - 2019.07.17 at 13h 08m 10s.xml">
       <configuration name="FizzbuzzTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FizzbuzzTest - 2019.07.17 at 13h 13m 54s.xml">
+      <configuration name="FizzbuzzTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzbuzzTest - 2019.07.17 at 13h 15m 13s.xml">
+      <configuration name="FizzbuzzTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33136000" />
+    <option name="totallyTimeSpent" value="33390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -462,13 +460,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/com/company/FizzbuzzTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -478,8 +469,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Fizzbuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/com/company/FizzbuzzTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
