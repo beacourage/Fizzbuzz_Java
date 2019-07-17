@@ -56,6 +56,13 @@ public class FizzbuzzTest {
         assertEquals("fizzbuzz", result);
     }
 
+    @Test
+    public void fizzbuzz_45() {
+        String result = fizzbuzz.play(45);
+        assertEquals("fizzbuzz", result);
+    }
+
+
 
 
 
