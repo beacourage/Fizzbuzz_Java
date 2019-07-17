@@ -62,6 +62,12 @@ public class FizzbuzzTest {
         assertEquals("fizzbuzz", result);
     }
 
+    @Test(expected = IllegalArgumentException.class)
+    public void number_over_200()  {
+        fizzbuzz.play(250);
+        fail("Should have thrown an illegal exception");
+    }
+
 
 
 

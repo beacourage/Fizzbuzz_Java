@@ -3,6 +3,9 @@ package com.company;
 public class Fizzbuzz {
 
     public String play(int number){
+        if (number > 200) {
+            throw new IllegalArgumentException();
+        }
         if (number % 15 == 0) {
             return "fizzbuzz";
         }
