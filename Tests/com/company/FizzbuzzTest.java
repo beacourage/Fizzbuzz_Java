@@ -32,15 +32,22 @@ public class FizzbuzzTest {
 
     @DisplayName("Returns buzz with multiples of five")
     @Test
-    public void fizz_5() {
+    public void buzz_5() {
         String result = fizzbuzz.play(5);
         assertEquals("buzz", result);
     }
 
     @Test
-    public void fizz_10() {
+    public void buzz_10() {
         String result = fizzbuzz.play(10);
         assertEquals("buzz", result);
+    }
+
+    @DisplayName("Returns fizzbuzz with multiples of three and five")
+    @Test
+    public void fizzbuzz_15() {
+        String result = fizzbuzz.play(15);
+        assertEquals("fizzbuzz", result);
     }
 
 
